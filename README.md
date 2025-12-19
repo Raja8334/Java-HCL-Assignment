@@ -93,7 +93,7 @@ Purpose of Cookies
 
 * descendant-or-self::, ancestor-or-self::, following-sibling::, preceding-sibling::.​
 
-*X Path is ideal when the element has no stable id/class, but its relative position, text, or relationship to other elements is clear.​
+* X Path is ideal when the element has no stable id/class, but its relative position, text, or relationship to other elements is clear.​
 
 
 
